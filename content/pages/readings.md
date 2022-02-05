@@ -9,22 +9,209 @@ This page presents the assigned readings per class session, followed by [bibliog
 Assigned Readings
 -----------------
 
-| LEC # | READINGS |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}} Discussion of Leo Marx's paper. "Technology: The Emergence of a Hazardous Concept." {{< br >}}{{< br >}} Smith and Clancey. pp. xiii-xv and 1-25. {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Mumford. _Technics and Civilization_. pp. 3-106. {{< br >}}{{< br >}} Mumford Article {{< br >}}{{< br >}} Lapartito. "Historian in the Rose Garden." {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} E. P. Thompson Article {{< br >}}{{< br >}} Gutman Article {{< br >}}{{< br >}} Smith and Clancey. pp. 144-190. {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Cronon. _Nature's Metropolis._ (Complete) {{< br >}}{{< br >}} Smith and Clancey. pp. 191-233. {{< br >}}{{< br >}}  |
-| 5 | Reading period (class does not meet) |
-| 6 |  {{< br >}}{{< br >}} Aitken. _Taylorism_. (Complete) {{< br >}}{{< br >}} Smith and Clancey. pp. 267-354. {{< br >}}{{< br >}}  |
-| 7 | Fritzsche. _Nation of Fliers_. (Complete) |
-| 8 |  {{< br >}}{{< br >}} Nye. _Electrifying America_. (Complete) {{< br >}}{{< br >}} Smith and Clancey. pp. 233-66 and 355-82. {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Cowan Articles {{< br >}}{{< br >}} McGaw Article {{< br >}}{{< br >}} Lapartito. "When Women Were Switches." {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} Russell. _War and Nature_. (Complete) {{< br >}}{{< br >}} Smith and Clancey, pp. 383-426. {{< br >}}{{< br >}}  |
-| 11 | Reading period (class does not meet) |
-| 12 |  {{< br >}}{{< br >}} MacKenzie. _Inventing Accuracy_. (Complete) {{< br >}}{{< br >}} Smith and Clancey. pp. 427-70. {{< br >}}{{< br >}}  |
-| 13 | Reading period (class does not meet) |
-| 14 | Maines. _Asbestos and Fire_. (Complete) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+Discussion of Leo Marx's paper. "Technology: The Emergence of a Hazardous Concept."
+
+Smith and Clancey. pp. xiii-xv and 1-25.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mumford. _Technics and Civilization_. pp. 3-106.
+
+Mumford Article
+
+Lapartito. "Historian in the Rose Garden."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+E. P. Thompson Article
+
+Gutman Article
+
+Smith and Clancey. pp. 144-190.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cronon. _Nature's Metropolis._ (Complete)
+
+Smith and Clancey. pp. 191-233.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Reading period (class does not meet)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Aitken. _Taylorism_. (Complete)
+
+Smith and Clancey. pp. 267-354.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Fritzsche. _Nation of Fliers_. (Complete)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Nye. _Electrifying America_. (Complete)
+
+Smith and Clancey. pp. 233-66 and 355-82.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cowan Articles
+
+McGaw Article
+
+Lapartito. "When Women Were Switches."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Russell. _War and Nature_. (Complete)
+
+Smith and Clancey, pp. 383-426.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Reading period (class does not meet)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+MacKenzie. _Inventing Accuracy_. (Complete)
+
+Smith and Clancey. pp. 427-70.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Reading period (class does not meet)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Maines. _Asbestos and Fire_. (Complete)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "biblio" >}}{{< /anchor >}}Bibliography
 --------------------------------------------------

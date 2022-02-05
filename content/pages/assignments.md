@@ -13,11 +13,68 @@ On each week's assigned readings, students prepare a one- to two-page reflection
 
 The following table presents examples of reflection papers, courtesy of the student named and used with permission.
 
-| TOPICS | STUDENT PAPERS |
-| --- | --- |
-| Cronon, William. _Nature's Metropolis._ |  {{< br >}}{{< br >}} Kieran Downes ([PDF]({{< baseurl >}}/resources/metropolis_kd)) {{< br >}}{{< br >}} Michael Rossi ([PDF]({{< baseurl >}}/resources/metropolis_mr)) {{< br >}}{{< br >}} Rachel Wellhausen ([PDF]({{< baseurl >}}/resources/metropolis_rw)) {{< br >}}{{< br >}}  |
-| Aitken, Hugh. _Taylorism at the Watertown Arsenal._ |  {{< br >}}{{< br >}} Kieran Downes ([PDF]({{< baseurl >}}/resources/taylorism_kd)) {{< br >}}{{< br >}} David Unger ([PDF]({{< baseurl >}}/resources/taylorism_du)) {{< br >}}{{< br >}}  |
-| MacKenzie, Donald. _Inventing Accuracy._ |  {{< br >}}{{< br >}} Kieran Downes ([PDF]({{< baseurl >}}/resources/accuracy_kd)) {{< br >}}{{< br >}} Yanni Loukissas ([PDF]({{< baseurl >}}/resources/accuracy_yl)) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+STUDENT PAPERS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Cronon, William. _Nature's Metropolis._
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Kieran Downes ([PDF]({{< baseurl >}}/resources/metropolis_kd))
+
+Michael Rossi ([PDF]({{< baseurl >}}/resources/metropolis_mr))
+
+Rachel Wellhausen ([PDF]({{< baseurl >}}/resources/metropolis_rw))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Aitken, Hugh. _Taylorism at the Watertown Arsenal._
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Kieran Downes ([PDF]({{< baseurl >}}/resources/taylorism_kd))
+
+David Unger ([PDF]({{< baseurl >}}/resources/taylorism_du))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+MacKenzie, Donald. _Inventing Accuracy._
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Kieran Downes ([PDF]({{< baseurl >}}/resources/accuracy_kd))
+
+Yanni Loukissas ([PDF]({{< baseurl >}}/resources/accuracy_yl))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Final Paper
 -----------
